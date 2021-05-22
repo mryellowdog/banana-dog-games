@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>site</title>
-</head>
 
-<body>
-<script>
   setBackdropURL('./docs/images/desert.jpg')
 variable1 = 0
 
@@ -62,7 +55,3 @@ var textSprite1 = new Text({
   freeze()
 }
   })
-  </script>
-</body>
-
-</html>
